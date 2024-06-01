@@ -14,6 +14,16 @@ I'm an American softweare developer, living in Bavaria, Germany.
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+## Hobbies
+:climbing: All types of climbing with preference towards outdoor single / multi pitch sport and trad
+
+:hiking_boot: Exploring the outdoors with family and friends
+
+:guitar: Keeping my neighbors entertained with the best songs
+
+:v: Volunteering in the local community
+
+
 ## Joke Time
 
 :question: When birds fly in a V formation, one side is usually longer than the other. Do you know why?
