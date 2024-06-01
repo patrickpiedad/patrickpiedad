@@ -17,7 +17,7 @@ I'm an American softweare developer, living in Bavaria, Germany.
 ## Hobbies
 :climbing: All types of climbing with preference towards outdoor single / multi pitch sport and trad
 
-:hiking_boot: Exploring the outdoors with family and friends
+:hiking_boot: Exploring nature with family and friends
 
 :guitar: Keeping my neighbors entertained with the best songs
 
@@ -28,7 +28,7 @@ I'm an American softweare developer, living in Bavaria, Germany.
 
 :question: When birds fly in a V formation, one side is usually longer than the other. Do you know why?
 
-:boom:There are more birds on that side.
+:boom: There are more birds on that side.
 
 <!--
 **patrickpiedad/patrickpiedad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
