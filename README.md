@@ -2,6 +2,10 @@
 
 I'm an American software developer, living in Bavaria, Germany. 
 
+🌱 I’m currently learning advanced JavaScript concepts and backend development fundamentals.
+
+🔭 I’m currently working on expanding my network with people in the tech industry, both local to Germany AND abroad!
+
 💬 Ask me about what I can bring to your team!
 
 ## Tech Things I Like
@@ -15,14 +19,13 @@ I'm an American software developer, living in Bavaria, Germany.
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ## Hobbies
-:climbing: All types of climbing with preference towards outdoor single / multi pitch sport and trad
+:climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
 
 :hiking_boot: Exploring nature with family and friends
 
 :guitar: Keeping my neighbors entertained with the best songs
 
 :v: Volunteering in the local community
-
 
 ## Joke Time
 
@@ -35,8 +38,7 @@ I'm an American software developer, living in Bavaria, Germany.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
