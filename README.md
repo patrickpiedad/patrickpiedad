@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pat!
 
-I'm an American softweare developer, living in Bavaria, Germany. 
+I'm an American software developer, living in Bavaria, Germany. 
 
 💬 Ask me about what I can bring to your team!
 
