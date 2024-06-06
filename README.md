@@ -4,7 +4,7 @@ I'm an American software developer, living in Bavaria, Germany.
 
 🌱 I’m currently learning advanced JavaScript concepts and backend development fundamentals.
 
-🔭 I’m currently working on expanding my network with people in the tech industry, both local to Germany AND abroad!
+🔭 I love expanding my network with people in the tech industry, both local to Germany AND abroad!
 
 💬 Ask me about what I can bring to your team!
 
