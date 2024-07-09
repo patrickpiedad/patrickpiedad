@@ -4,13 +4,13 @@
 <h2> A Little About Me </h2> 
 🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
 <br></br>
-👨‍💻 All of my projects are available here on my GitHub and at [https://patrickpiedad.netlify.app/](https://patrickpiedad.netlify.app/)
+👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.netlify.app/
 <br></br>
-📝 I regularly write articles at [https://patrickpiedad.netlify.app/blog/](https://patrickpiedad.netlify.app/blog/)
+📝 I regularly write articles at https://patrickpiedad.netlify.app/blog/
 <br></br>
-💬 Ask me about **what I can bring to your team!**
+💬 Ask me about what I can bring to your team!
 <br></br>
-📫 You can reach me at **patrickpiedad@gmail.com**
+📫 You can reach me at patrickpiedad@gmail.com
 
 <h2> Hobbies </h2>
 :climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
