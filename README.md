@@ -2,23 +2,23 @@
 <h3 align="center"> I am a passionate full-stack developer living in Bavaria, Germany. </h3>
 
 <h2> A Little About Me </h2> 
-🌱 I’m currently learning **learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework**
-
+🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
+<br></br>
 👨‍💻 All of my projects are available here on my GitHub and at [https://patrickpiedad.netlify.app/](https://patrickpiedad.netlify.app/)
-
+<br></br>
 📝 I regularly write articles at [https://patrickpiedad.netlify.app/blog/](https://patrickpiedad.netlify.app/blog/)
-
+<br></br>
 💬 Ask me about **what I can bring to your team!**
-
+<br></br>
 📫 You can reach me at **patrickpiedad@gmail.com**
 
 <h2> Hobbies </h2>
 :climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
-
+<br></br>
 :hiking_boot: Exploring nature with family and friends
-
+<br></br>
 :guitar: Keeping my neighbors entertained with the best songs
-
+<br></br>
 :v: Volunteering in the local community
 
 <h2> Tech Things I Like </h2>
@@ -53,9 +53,8 @@
 </p>
 
 <h2> Joke Time </h2>
-
 :question: When birds fly in a V formation, one side is usually longer than the other. Do you know why?
-
+<br></br>
 :boom: There are more birds on that side.
 
 <h1> Socials </h1>
