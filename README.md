@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Pat! </h1>
 <h3 align="center"> I am a passionate full-stack developer living in Bavaria, Germany. </h3>
-<br>
+<br></br>
 <h1 align="center"> A Little About Me </h1> 
 🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
 <br></br>
@@ -11,6 +11,7 @@
 💬 Ask me about what I can bring to your team!
 <br></br>
 📫 You can reach me at patrickpiedad@gmail.com
+<br></br>
 
 <h1 align="center"> Hobbies </h1>
 :climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
@@ -20,6 +21,7 @@
 :guitar: Keeping my neighbors entertained with the best songs
 <br></br>
 :v: Volunteering in the local community
+<br></br>
 
 <h1 align="center"> Tech Things I Like </h1>
 
@@ -37,6 +39,7 @@
   <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </p>
+<br></br>
 
 <h1 align="center"> Joke Time </h1>
 :question: When birds fly in a V formation, one side is usually longer than the other. Do you know why?
