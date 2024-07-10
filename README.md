@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Pat! </h1>
 <h3 align="center"> I am a passionate full-stack developer living in Bavaria, Germany. </h3>
-
-<h2> A Little About Me </h2> 
+<br>
+<h2 align="center"> A Little About Me </h2> 
 🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.netlify.app/
@@ -12,7 +12,7 @@
 <br></br>
 📫 You can reach me at patrickpiedad@gmail.com
 
-<h2> Hobbies </h2>
+<h2 align="center"> Hobbies </h2>
 :climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
 <br></br>
 :hiking_boot: Exploring nature with family and friends
@@ -21,9 +21,9 @@
 <br></br>
 :v: Volunteering in the local community
 
-<h2> Tech Things I Like </h2>
+<h2 align="center"> Tech Things I Like </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,7 +38,7 @@
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
 </p>
 
-<h2> Joke Time </h2>
+<h2 align="center"> Joke Time </h2>
 :question: When birds fly in a V formation, one side is usually longer than the other. Do you know why?
 <br></br>
 :boom: There are more birds on that side.
