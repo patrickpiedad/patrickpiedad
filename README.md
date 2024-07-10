@@ -6,7 +6,7 @@
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.netlify.app/
 <br></br>
-📝 I regularly write articles at https://patrickpiedad.netlify.app/blog/
+📝 I have a blog, check it out at https://patrickpiedad.netlify.app/blog/
 <br></br>
 💬 Ask me about what I can bring to your team!
 <br></br>
