@@ -4,9 +4,9 @@
 <h1 align="center"> A Little About Me </h1> 
 🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
 <br></br>
-👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.netlify.app/
+👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.me/blog
 <br></br>
-📝 I have a blog, check it out at https://patrickpiedad.netlify.app/blog/
+📝 I have a blog, check it out at https://patrickpiedad.me/blog
 <br></br>
 💬 Ask me about what I can bring to your team!
 <br></br>
