@@ -2,9 +2,9 @@
 <h3 align="center"> I am a passionate full-stack developer living in Bavaria, Germany. </h3>
 <br></br>
 <h1 align="center"> A Little About Me </h1> 
-🌱 I’m currently learning learning advanced JavaScript concepts, backend fundamentals, C#, and the .NET framework.
+🌱 I enjoy creating meaningful solutions using C#, .NET technologies, JavaScript, and their associated frameworks.
 <br></br>
-👨‍💻 All of my projects are available here on my GitHub and at https://patrickpiedad.me/blog
+👨‍💻 All of my projects are available here on my GitHub.
 <br></br>
 📝 I have a blog, check it out at https://patrickpiedad.me/blog
 <br></br>
