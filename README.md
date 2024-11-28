@@ -6,7 +6,7 @@
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub.
 <br></br>
-📝 I have a blog, check it out at https://patrickpiedad.me/blog
+📝 I have a blog, check it out at https://patrickpiedad.me
 <br></br>
 💬 Ask me about what I can bring to your team!
 <br></br>
