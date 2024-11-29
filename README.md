@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm Pat! </h1>
-<h3 align="center"> I am a full-stack developer living in Bavaria, Germany. </h3>
+<h3 align="center"> I am a software developer living in Bavaria, Germany. </h3>
 <br></br>
 <h1 align="center"> A Little About Me </h1> 
-🌱 I enjoy creating meaningful solutions using C#, .NET technologies, JavaScript, and their associated frameworks.
+🌱 I enjoy learning new technologies and creating meaningful solutions using C#, .NET, JavaScript, and their associated frameworks.
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub.
 <br></br>
