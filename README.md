@@ -16,7 +16,11 @@
 <h1 align="center"> Hobbies </h1>
 :climbing: All types of climbing with preference towards outdoor single / multi-pitch sport and trad
 <br></br>
-:hiking_boot: Exploring nature with family and friends
+:running: Training for my first marathon!
+<br></br>
+:snowboarder: Snow/Splitboaring in the Alps
+<br></br>
+:weight_lifting_man: Crossfit-ing
 <br></br>
 :guitar: Keeping my neighbors entertained with the best songs
 <br></br>
@@ -30,6 +34,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
