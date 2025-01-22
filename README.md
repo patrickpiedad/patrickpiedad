@@ -1,14 +1,12 @@
 <h1 align="center"> 👋 Hi, I'm Pat! </h1>
-<h3 align="center"> I am a cloud professional and software developer living in Regensburg, Germany. </h3>
+<h3 align="center"> I am a software developer and cloud professional living in Regensburg, Germany. </h3>
 <br></br>
 <h1 align="center"> A Little About Me </h1> 
-🌱 I enjoy learning new technologies and creating meaningful solutions using C#, .NET, JavaScript, and their associated frameworks.
+🌱 Immersion in tech makes me happy.
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub.
 <br></br>
 📝 I have a blog, check it out at https://patrickpiedad.me
-<br></br>
-💬 Ask me about what I can bring to your team!
 <br></br>
 📫 You can reach me at patrickpiedad@gmail.com
 <br></br>
