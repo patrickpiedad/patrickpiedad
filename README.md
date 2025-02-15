@@ -2,7 +2,7 @@
 <h3 align="center"> I am a software developer and cloud professional living in Regensburg, Germany. </h3>
 <br></br>
 <h1 align="center"> A Little About Me </h1> 
-🌱 Immersion in tech makes me happy.
+🌱 I like tech.
 <br></br>
 👨‍💻 All of my projects are available here on my GitHub.
 <br></br>
