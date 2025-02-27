@@ -16,7 +16,7 @@
 <br></br>
 :running: Training for my first marathon!
 <br></br>
-:snowboarder: Snow/Splitboaring in the Alps
+:snowboarder: Snow/Splitboarding in the Alps
 <br></br>
 :weight_lifting_man: Crossfit-ing
 <br></br>
